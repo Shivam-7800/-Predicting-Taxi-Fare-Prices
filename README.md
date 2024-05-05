@@ -1,5 +1,5 @@
 # Predicting-Taxi-Fare-Prices
-
+# DATA LINK : https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data
 
 Predicting taxi fare prices involves analyzing various factors such as distance traveled, time of day, traffic conditions, and additional charges like tolls or surcharges. Machine learning techniques, especially regression algorithms, are commonly used for this task. Here’s a general outline of how you might approach building a predictive model for taxi fare prices:
 
